@@ -1,0 +1,14 @@
+{
+    "test_setup_netid": {
+        "weight": "required",
+        "depends": []
+    },
+    "test_setup_late_days": {
+        "weight": "required",
+        "depends": []
+    },
+    "test_setup_other_ipynbs": {
+        "weight": 0,
+        "depends": []
+    }
+}

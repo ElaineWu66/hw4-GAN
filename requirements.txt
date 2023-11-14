@@ -1,0 +1,11 @@
+filetype
+numpy
+pandas
+
+torch
+datasets
+transformers
+
+scikit-learn
+pytest
+matplotlib
